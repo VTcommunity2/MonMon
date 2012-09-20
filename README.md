@@ -1,4 +1,4 @@
 MonMon
 ======
 
-MonMon game
+MonMon game. Name is subject to change.
